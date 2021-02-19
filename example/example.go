@@ -7,7 +7,7 @@ import (
 	"log"
 )
 
-// 一个例子，在 / 通过url接收参数；在 /list 现实。
+// 一个例子，在 / 通过url接收参数；在 /list 显示。
 func main() {
 	r := gin.Default()
 
